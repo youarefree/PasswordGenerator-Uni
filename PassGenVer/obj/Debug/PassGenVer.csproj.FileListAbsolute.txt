@@ -1,0 +1,14 @@
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\MainWindow.g.cs
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\App.g.cs
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer_MarkupCompile.cache
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer_MarkupCompile.lref
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\bin\Debug\PassGenVer.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\bin\Debug\PassGenVer.exe
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\bin\Debug\PassGenVer.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\MainWindow.baml
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer.g.resources
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer.Properties.Resources.resources
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer.csproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer.exe
+C:\Users\admin\documents\visual studio 2017\Projects\PassGenVer\PassGenVer\obj\Debug\PassGenVer.pdb
